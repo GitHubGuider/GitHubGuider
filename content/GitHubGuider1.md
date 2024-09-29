@@ -2,6 +2,8 @@
 
 「**GitHubGuider**」会推荐 GitHub 上有趣有用的项目，**每月 28 号**更新，获得更多的阅读体验关注公众号：[《GitHub指北》](https://open.weixin.qq.com/qr/code?username=GitHubGuider)。
 
+以下为《GitHubGuider》第 01 期内容：
+
 ## 语言
 ### Java 项目
 
