@@ -15,13 +15,15 @@
   - [JavaScript](#javascript)
     - [开源电子书阅读器](#开源电子书阅读器)
   - [TypeScript 项目](#typescript-项目)
+    - [这款开源在线视频下载神器绝了，速度达 30M/S](#这款开源在线视频下载神器绝了速度达-30ms)
     - [简洁易用 Web 端创意画板](#简洁易用-web-端创意画板)
   - [C++](#c)
   - [C# 项目](#c-项目)
     - [Microsoft 官方开源电商平台](#microsoft-官方开源电商平台)
   - [Go 项目](#go-项目)
     - [企业级开源问答系统](#企业级开源问答系统)
-  - [Dart](#dart)
+  - [Dart 项目](#dart-项目)
+    - [Notion 开源替代品](#notion-开源替代品)
   - [PHP](#php)
   - [Vue](#vue)
   - [Rust 项目](#rust-项目)
@@ -177,6 +179,21 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 ![](/image/开源电子书阅读器/1.png)
 
 ## TypeScript 项目
+### 这款开源在线视频下载神器绝了，速度达 30M/S
+**推荐语**：一款多平台流媒体下载工具，支持轻松提取和下载M3U8视频和直播资源，简单高效。
+
+**GitHub Star数**：![](https://img.shields.io/github/stars/caorushizi/mediago)
+
+**开发语言**：JavaScript
+
+**GitHub地址**：[https://github.com/caorushizi/mediago](https://github.com/caorushizi/mediago)
+
+**最近更新时间**：2024年7月6日
+
+**效果预览**：
+
+![](/image/这款开源在线视频下载神器绝了/1.png)
+
 ### 简洁易用 Web 端创意画板
 **推荐语**：**Paint Board** 是一个开源绘图应用程序，可以轻松进行绘画、草图创作和图像编辑，旨在为用户提供一个简单而强大的在线绘图平台。
 
@@ -234,7 +251,23 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 
 ![](/image/一个开源Q&A平台/1.png)
 
-## Dart
+## Dart 项目
+
+### Notion 开源替代品
+**推荐语**：AppFlowy 是一个开源的 Notion 替代方案，用户可以完全掌控自己的数据和自定义选项。
+
+**GitHub Star数**：56.6K
+
+**开发语言**：Rust, Dart
+
+**GitHub 地址**：[https://github.com/AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+
+**最近更新时间**：2024年10月6日
+
+**效果预览**：
+
+![](/image/Notion开源替代品/1.png)
+
 ## PHP
 ## Vue
 ## Rust 项目
