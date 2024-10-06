@@ -13,6 +13,7 @@
     - [开源自托管离线翻译引擎](#开源自托管离线翻译引擎)
     - [一款轻量级 AI 证件照制作工具](#一款轻量级-ai-证件照制作工具)
   - [JavaScript](#javascript)
+    - [开源电子书阅读器](#开源电子书阅读器)
   - [TypeScript 项目](#typescript-项目)
     - [简洁易用 Web 端创意画板](#简洁易用-web-端创意画板)
   - [C++](#c)
@@ -160,6 +161,21 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 ![](/image/一款轻量级AI证件照制作工具/1.png)
 
 ## JavaScript
+
+### 开源电子书阅读器
+
+**推荐语**: Foliate 是一个简单易用的电子书阅读器，支持多种格式和功能丰富的界面，提升阅读体验。
+
+**GitHub Star数**: ![](https://img.shields.io/github/stars/johnfactotum/foliate)
+
+**开发语言**: JavaScript  
+
+**GitHub地址**: [https://github.com/johnfactotum/foliate](https://github.com/johnfactotum/foliate)  
+   
+**效果预览**：
+
+![](/image/开源电子书阅读器/1.png)
+
 ## TypeScript 项目
 ### 简洁易用 Web 端创意画板
 **推荐语**：**Paint Board** 是一个开源绘图应用程序，可以轻松进行绘画、草图创作和图像编辑，旨在为用户提供一个简单而强大的在线绘图平台。
