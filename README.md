@@ -1,5 +1,34 @@
 ![](https://smartloong.oss-cn-shanghai.aliyuncs.com/GitHub37.jpeg)
 
+# 目录
+
+- [目录](#目录)
+- [简介](#简介)
+- [内容](#内容)
+  - [Java 项目](#java-项目)
+    - [跨平台开发者工具箱](#跨平台开发者工具箱)
+    - [开源在线网盘](#开源在线网盘)
+  - [Python](#python)
+    - [AI 实时换脸](#ai-实时换脸)
+    - [开源自托管离线翻译引擎](#开源自托管离线翻译引擎)
+    - [一款轻量级 AI 证件照制作工具](#一款轻量级-ai-证件照制作工具)
+  - [JavaScript](#javascript)
+  - [TypeScript 项目](#typescript-项目)
+    - [简洁易用 Web 端创意画板](#简洁易用-web-端创意画板)
+  - [C++](#c)
+  - [C# 项目](#c-项目)
+    - [Microsoft 官方开源电商平台](#microsoft-官方开源电商平台)
+  - [Go 项目](#go-项目)
+    - [企业级开源问答系统](#企业级开源问答系统)
+  - [Dart](#dart)
+  - [PHP](#php)
+  - [Vue](#vue)
+  - [Rust 项目](#rust-项目)
+    - [Windows 平铺窗口管理器](#windows-平铺窗口管理器)
+  - [算法](#算法)
+    - [Hello 算法](#hello-算法)
+- [声明](#声明)
+
 # 简介
 
 IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机，网上有很多成熟的框架，我们应充分利用好这些，所谓前人种树后人好乘凉，很多时候压根不需要了解太多原理，只需站在巨人的丁丁上即可。
@@ -7,8 +36,6 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 解决问题是工作的首要目标，不管你是用 Google 也好，还是 GitHub，还是请教别人，还是摸索出来的，总之，能解决问题，就是一名称职的员工，这是一项能力，而且是不可多得的能力，尼古拉斯·大龙甚至鼓励大家要多使用 Google，多使用 GitHub，在解决一个个的问题的过程中，你的能力其实在不自不觉中在提高。
 
 所以有了「**GitHubGuider**」这个项目，精选 GitHub 上有趣有用的项目，<!--**每月 28 号**以月刊的形式更新发布，-->面向 GitHub 开发，让你用很短时间感受到开源的魅力，爱上开源，欢迎 GitHub Star。
-
-
 
 <!--
 ## 目录
@@ -21,7 +48,6 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 #### Dart
 ### PHP
 ### Vue
-
 
 ### 算法
 
@@ -38,7 +64,7 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 ### 面试
 -->
 # 内容
-获得更多的阅读体验公众号：[《GitHub指北》](https://open.weixin.qq.com/qr/code?username=GitHubGuider)。
+获得更多的阅读体验公众号：[《GitHub 指北》](https://open.weixin.qq.com/qr/code?username=GitHubGuider)。
 
 ## Java 项目
 ### 跨平台开发者工具箱
@@ -57,7 +83,6 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 ![](/image/跨平台开发者工具箱/2.png)
 ![](/image/跨平台开发者工具箱/3.png)
 ![](/image/跨平台开发者工具箱/4.png)
-
 
 ### 开源在线网盘
 **推荐项目：ZFile**
@@ -82,6 +107,45 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 ![](/image/开源在线网盘/4.png)
 
 ## Python
+### AI 实时换脸
+**推荐标题**: Deep-Live-Cam
+
+**推荐语**: 一款使用单张图像进行实时换脸与视频深度伪造的工具。
+
+**GitHub Star数**: 37.7K
+
+**开发语言**: Python
+
+**GitHub地址**: [https://github.com/hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+
+**最近更新时间**: 2023年8月
+
+**效果预览**：
+
+![](/image/AI实时换脸/1.gif)
+
+![](/image/AI实时换脸/2.gif)
+
+![](/image/AI实时换脸/3.gif)
+
+### 开源自托管离线翻译引擎
+<!--**推荐标题**: LibreTranslate - 自托管的开源机器翻译 API-->
+
+**推荐语**: LibreTranslate 是一个支持离线使用、易于设置的免费开源机器翻译 API，适合自托管环境。
+
+**GitHub Star 数**: **9K**  
+
+**开发语言**: **Python**  
+
+**GitHub 地址**: [https://github.com/LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate)  
+
+**最近更新时间**: **2024 年 9 月**
+
+**效果预览**：
+
+![](/image/开源自托管离线翻译引擎/1.png)
+
+
 ### 一款轻量级 AI 证件照制作工具
 **推荐语**：HivisionIDPhotos 是一款高效轻量的 AI 证件照生成工具，支持背景移除和人脸对齐，适合快速制作高质量证件照。
 
@@ -110,7 +174,7 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 
 **效果预览**：
 
-![](/image/简洁易用Web端创意画板/1.png)
+![](/image/简洁易用 Web 端创意画板/1.png)
 
 ## C++
 
@@ -131,12 +195,11 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 
 **效果预览**：
 
-![](/image/Microsoft官方开源电商平台/1.png)
+![](/image/Microsoft 官方开源电商平台/1.png)
 
-![](/image/Microsoft官方开源电商平台/2.png)
+![](/image/Microsoft 官方开源电商平台/2.png)
 
 ## Go 项目
-
 
 ### 企业级开源问答系统
 一个开源 Q&A 平台
@@ -153,8 +216,7 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 
 **效果预览**：
 
-![](/image/一个开源Q&A平台/1.png)
-
+![](/image/一个开源 Q&A 平台/1.png)
 
 ## Dart
 ## PHP
@@ -173,8 +235,7 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 
 **效果预览**：
 
-![](/image/Windows平铺窗口管理器/1.png)
-
+![](/image/Windows 平铺窗口管理器/1.png)
 
 ## 算法
 
@@ -192,13 +253,9 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 
 **效果预览**：
 
-![](/image/Hello算法/1.gif)
+![](/image/Hello 算法/1.gif)
 
-![](/image/Hello算法/2.gif)
-
-
-
-
+![](/image/Hello 算法/2.gif)
 
 <!--
 | :card_index:                            | :jack_o_lantern:                        | :beer:                                | :fish_cake:                           | :octocat:                             |
