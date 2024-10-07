@@ -17,8 +17,11 @@
   - [TypeScript 项目](#typescript-项目)
     - [这款开源在线视频下载神器绝了，速度达 30M/S](#这款开源在线视频下载神器绝了速度达-30ms)
     - [简洁易用 Web 端创意画板](#简洁易用-web-端创意画板)
+  - [C 项目](#c-项目)
+    - [免费开源视频转码工具](#免费开源视频转码工具)
   - [C++](#c)
-  - [C# 项目](#c-项目)
+  - [C# 项目](#c-项目-1)
+    - [记录生活点滴跨平台侠客日记](#记录生活点滴跨平台侠客日记)
     - [轻量级联想拯救者工具箱](#轻量级联想拯救者工具箱)
     - [Microsoft 官方开源电商平台](#microsoft-官方开源电商平台)
   - [Go 项目](#go-项目)
@@ -39,9 +42,11 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 
 解决问题是工作的首要目标，不管你是用 Google 也好，还是 GitHub，还是请教别人，还是摸索出来的，总之，能解决问题，就是一名称职的员工，这是一项能力，而且是不可多得的能力，尼古拉斯·大龙甚至鼓励大家要多使用 Google，多使用 GitHub，在解决一个个的问题的过程中，你的能力其实在不自不觉中在提高。
 
-所以有了「**GitHubGuider**」这个项目，精选 GitHub 上有趣有用的项目，<!--**每月 28 号**以月刊的形式更新发布，-->面向 GitHub 开发，让你用很短时间感受到开源的魅力，爱上开源，欢迎 GitHub Star ![](https://img.shields.io/github/stars/GitHubGuider/GitHubGuider)。
+所以有了「**GitHubGuider**」这个项目，精选 GitHub 上有趣有用的项目，<!--**每月 28 号**以月刊的形式更新发布，-->面向 GitHub 开发，让你用很短时间感受到开源的魅力，爱上开源，欢迎 GitHub Star。
 
-<!--
+
+<!--![](https://img.shields.io/github/stars/GitHubGuider/GitHubGuider)。
+
 ## 目录
 ### 语言
 #### Java
@@ -84,8 +89,11 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 **效果预览**：
 
 ![](/image/跨平台开发者工具箱/1.png)
+
 ![](/image/跨平台开发者工具箱/2.png)
+
 ![](/image/跨平台开发者工具箱/3.png)
+
 ![](/image/跨平台开发者工具箱/4.png)
 
 ### 开源在线网盘
@@ -106,8 +114,11 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 **效果预览**：
 
 ![](/image/开源在线网盘/1.png)
+
 ![](/image/开源在线网盘/2.png)
+
 ![](/image/开源在线网盘/3.png)
+
 ![](/image/开源在线网盘/4.png)
 
 ## Python
@@ -210,9 +221,47 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 
 ![](/image/简洁易用Web端创意画板/1.png)
 
+## C 项目
+
+### 免费开源视频转码工具
+
+**推荐语**：HandBrake 是一款功能强大的开源视频转换工具，支持多种视频格式的高效编码和转换。
+
+**GitHub Star数**：![](https://img.shields.io/github/stars/HandBrake/HandBrake)
+
+**开发语言**：C
+
+**GitHub地址**：[https://github.com/HandBrake/HandBrake](https://github.com/HandBrake/HandBrake)
+
+**最近更新时间**：2024年10月6日
+
+**效果预览**：
+
+![](/image/免费开源视频转码工具/1.png)
+
+
 ## C++
 
 ## C# 项目
+### 记录生活点滴跨平台侠客日记
+**推荐语**：侠客日记是一款使用 MAUI Blazor 构建的跨平台本地日记应用，注重简洁与用户隐私。
+
+**GitHub Star数**：![](https://img.shields.io/github/stars/Yu-Core/SwashbucklerDiary)
+
+**开发语言**：C#
+
+**GitHub地址**：[https://github.com/Yu-Core/SwashbucklerDiary](https://github.com/Yu-Core/SwashbucklerDiary)
+
+**最近更新时间**：2023年5月16日
+
+**效果预览**：
+
+![](/image/记录生活点滴跨平台侠客日记/1.png)
+
+![](/image/记录生活点滴跨平台侠客日记/2.png)
+
+![](/image/记录生活点滴跨平台侠客日记/3.png)
+
 ### 轻量级联想拯救者工具箱
 
 **推荐语**: Lenovo Legion Toolkit 是一款轻量级的替代工具，适用于 Legion 笔记本电脑，专为替代官方 Vantage 软件及热键功能设计。
@@ -223,7 +272,7 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 
 **GitHub 地址**: https://github.com/BartoszCichecki/LenovoLegionToolkit
 
-**最近更新时间**: 2023 年 9 月【165†source】【166†source】
+**最近更新时间**: 2023 年 9 月
 
 **效果预览**：
 
