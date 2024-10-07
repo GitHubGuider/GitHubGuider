@@ -19,6 +19,7 @@
     - [简洁易用 Web 端创意画板](#简洁易用-web-端创意画板)
   - [C++](#c)
   - [C# 项目](#c-项目)
+    - [轻量级联想拯救者工具箱](#轻量级联想拯救者工具箱)
     - [Microsoft 官方开源电商平台](#microsoft-官方开源电商平台)
   - [Go 项目](#go-项目)
     - [企业级开源问答系统](#企业级开源问答系统)
@@ -212,6 +213,22 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 ## C++
 
 ## C# 项目
+### 轻量级联想拯救者工具箱
+
+**推荐语**: Lenovo Legion Toolkit 是一款轻量级的替代工具，适用于 Legion 笔记本电脑，专为替代官方 Vantage 软件及热键功能设计。
+
+**GitHub Star 数**: 3.6K
+
+**开发语言**: C#
+
+**GitHub 地址**: https://github.com/BartoszCichecki/LenovoLegionToolkit
+
+**最近更新时间**: 2023 年 9 月【165†source】【166†source】
+
+**效果预览**：
+
+![](/image/轻量级联想拯救者工具箱/1.png)
+
 
 ### Microsoft 官方开源电商平台
 **eShop 项目推荐**
