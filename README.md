@@ -8,19 +8,20 @@
   - [Java 项目](#java-项目)
     - [跨平台开发者工具箱](#跨平台开发者工具箱)
     - [开源在线网盘](#开源在线网盘)
-  - [Python](#python)
+  - [Python 项目](#python-项目)
     - [AI 实时换脸](#ai-实时换脸)
     - [开源自托管离线翻译引擎](#开源自托管离线翻译引擎)
     - [一款轻量级 AI 证件照制作工具](#一款轻量级-ai-证件照制作工具)
-  - [JavaScript](#javascript)
+  - [JavaScript 项目](#javascript-项目)
     - [开源电子书阅读器](#开源电子书阅读器)
   - [TypeScript 项目](#typescript-项目)
     - [这款开源在线视频下载神器绝了，速度达 30M/S](#这款开源在线视频下载神器绝了速度达-30ms)
     - [简洁易用 Web 端创意画板](#简洁易用-web-端创意画板)
   - [C 项目](#c-项目)
     - [免费开源视频转码工具](#免费开源视频转码工具)
-  - [C++](#c)
-  - [C# 项目](#c-项目-1)
+  - [C++ 项目](#c-项目-1)
+    - [专业 Windows 恶意程序分析与清理工具](#专业-windows-恶意程序分析与清理工具)
+  - [C# 项目](#c-项目-2)
     - [记录生活点滴跨平台侠客日记](#记录生活点滴跨平台侠客日记)
     - [轻量级联想拯救者工具箱](#轻量级联想拯救者工具箱)
     - [Microsoft 官方开源电商平台](#microsoft-官方开源电商平台)
@@ -28,7 +29,8 @@
     - [企业级开源问答系统](#企业级开源问答系统)
   - [Dart 项目](#dart-项目)
     - [Notion 开源替代品](#notion-开源替代品)
-  - [PHP](#php)
+  - [PHP 项目](#php-项目)
+    - [免费开源医院管理系统](#免费开源医院管理系统)
   - [Vue](#vue)
   - [Rust 项目](#rust-项目)
     - [Windows 平铺窗口管理器](#windows-平铺窗口管理器)
@@ -121,7 +123,7 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 
 ![](/image/开源在线网盘/4.png)
 
-## Python
+## Python 项目
 ### AI 实时换脸
 **推荐标题**: Deep-Live-Cam
 
@@ -174,7 +176,7 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 
 ![](/image/一款轻量级AI证件照制作工具/1.png)
 
-## JavaScript
+## JavaScript 项目
 
 ### 开源电子书阅读器
 
@@ -240,7 +242,25 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 ![](/image/免费开源视频转码工具/1.png)
 
 
-## C++
+## C++ 项目
+
+### 专业 Windows 恶意程序分析与清理工具
+
+**推荐语**：OpenArk 是一款功能强大的 Windows 反 Rootkit 工具，支持多种反病毒、内核管理和编程辅助功能。
+
+**GitHub Star数**：![](https://img.shields.io/github/stars/BlackINT3/OpenArk)
+
+**开发语言**：C++、C、Makefile
+
+**GitHub地址**：[https://github.com/BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk)
+
+**效果预览**：
+
+![](/image/专业Windows恶意程序分析与清理工具/1.png)
+
+![](/image/专业Windows恶意程序分析与清理工具/2.png)
+
+![](/image/专业Windows恶意程序分析与清理工具/3.png)
 
 ## C# 项目
 ### 记录生活点滴跨平台侠客日记
@@ -334,7 +354,25 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 
 ![](/image/Notion开源替代品/1.png)
 
-## PHP
+## PHP 项目
+
+### 免费开源医院管理系统
+**推荐语**：OpenEMR 是全球最流行的开源电子健康记录和医疗管理系统，广泛应用于各类医疗机构。
+
+**GitHub Star数**：![](https://img.shields.io/github/stars/openemr/openemr)
+
+**开发语言**：PHP
+
+**GitHub地址**：https://github.com/openemr/openemr
+
+**效果预览**：
+
+![](/image/免费开源医院管理系统/1.png)
+
+![](/image/免费开源医院管理系统/2.png)
+
+![](/image/免费开源医院管理系统/3.png)
+
 ## Vue
 ## Rust 项目
 
