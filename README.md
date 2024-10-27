@@ -6,15 +6,22 @@
 - [简介](#简介)
 - [内容](#内容)
   - [Java 项目](#java-项目)
+    - [开源 F-Droid，安全可靠安卓应用商店](#开源-f-droid安全可靠安卓应用商店)
+    - [免费开源人脸识别系统](#免费开源人脸识别系统)
     - [跨平台开发者工具箱](#跨平台开发者工具箱)
     - [开源在线网盘](#开源在线网盘)
   - [Python 项目](#python-项目)
+    - [让静态照片“活”起来开源魔法工具](#让静态照片活起来开源魔法工具)
     - [AI 实时换脸](#ai-实时换脸)
     - [开源自托管离线翻译引擎](#开源自托管离线翻译引擎)
     - [一款轻量级 AI 证件照制作工具](#一款轻量级-ai-证件照制作工具)
   - [JavaScript 项目](#javascript-项目)
     - [开源电子书阅读器](#开源电子书阅读器)
   - [TypeScript 项目](#typescript-项目)
+    - [开源文档和团队知识库管理工具](#开源文档和团队知识库管理工具)
+    - [高性能照片和视频自托管解决方案，打造私人云端图库](#高性能照片和视频自托管解决方案打造私人云端图库)
+    - [开源个人知识管理软件，重构你的思维](#开源个人知识管理软件重构你的思维)
+    - [开源项目管理和问题跟踪平台，平替 JIRA](#开源项目管理和问题跟踪平台平替-jira)
     - [这款开源在线视频下载神器绝了，速度达 30M/S](#这款开源在线视频下载神器绝了速度达-30ms)
     - [简洁易用 Web 端创意画板](#简洁易用-web-端创意画板)
   - [C 项目](#c-项目)
@@ -78,6 +85,37 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 获得更多的阅读体验公众号：[《GitHub 指北》](https://open.weixin.qq.com/qr/code?username=GitHubGuider)。
 
 ## Java 项目
+### 开源 F-Droid，安全可靠安卓应用商店	
+**推荐标题**：F-Droid Client——开源应用市场客户端
+
+**推荐语**：F-Droid Client 是一个开源应用商店客户端，为 Android 用户提供无追踪、自由的应用下载与管理体验。
+
+**GitHub Star数**：![](https://img.shields.io/github/stars/f-droid/fdroidclient)
+
+**开发语言**：Java
+
+**GitHub地址**：https://github.com/f-droid/fdroidclient
+
+**效果预览**：
+
+![](/image/F-Droid，安全可靠安卓应用商店/1.png)
+
+
+### 免费开源人脸识别系统
+**推荐标题**：CompreFace——灵活的开源人脸识别服务
+
+**推荐语**：CompreFace 是一个可自托管的开源人脸识别系统，提供灵活 API 和实时人脸识别，便于集成各种应用场景。
+
+**GitHub Star数**：![](https://img.shields.io/github/stars/exadel-inc/CompreFace)
+
+**开发语言**：JavaScript
+
+**GitHub地址**：https://github.com/exadel-inc/CompreFace
+
+**效果预览**：
+
+![](/image/免费开源人脸识别系统/1.png)
+
 ### 跨平台开发者工具箱
 
 **推荐语**：MooTool 是由开发者 rememberber 开发的一个开源桌面工具箱，提供了一系列日常开发和运维中常用的工具，覆盖文本处理、加密解密、网络调试、格式转换等多种功能。
@@ -124,6 +162,23 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 ![](/image/开源在线网盘/4.png)
 
 ## Python 项目
+
+### 让静态照片“活”起来开源魔法工具
+
+**推荐语**：LivePortrait 是一个开源项目，专注于从实时视频中生成高精度人像，适用于虚拟主播和其他创作场景。
+
+**GitHub Star数**：![](https://img.shields.io/github/stars/KwaiVGI/LivePortrait)
+
+**开发语言**：Python
+
+**GitHub地址**：https://github.com/KwaiVGI/LivePortrait
+
+**效果预览**：
+
+![](/image/让静态照片“活”起来开源魔法工具/1.gif)
+
+
+
 ### AI 实时换脸
 **推荐标题**: Deep-Live-Cam
 
@@ -193,6 +248,71 @@ IT 界著名的尼古拉斯·大龙曾说：现在做研发已经是大好时机
 ![](/image/开源电子书阅读器/1.png)
 
 ## TypeScript 项目
+### 开源文档和团队知识库管理工具
+**推荐标题**：Outline——协作型知识库与文档管理平台
+
+**推荐语**：Outline 是一款开源的知识库工具，专注于团队协作和文档管理，提供简洁的界面与强大的编辑功能。
+
+**GitHub Star数**：![](https://img.shields.io/github/stars/outline/outline)
+
+**开发语言**：TypeScript
+
+**GitHub地址**：https://github.com/outline/outline
+
+**效果预览**：
+
+![](/image/开源文档和团队知识库管理工具/1.png)
+
+
+### 高性能照片和视频自托管解决方案，打造私人云端图库
+**推荐标题**：Immich——自托管的开源照片和视频备份工具
+
+**推荐语**：Immich 提供高效的自托管照片和视频备份与管理方案，支持快速上传、自动归档和高分辨率查看等功能。
+
+**GitHub Star数**：![](https://img.shields.io/github/stars/immich-app/immich)
+
+**开发语言**：TypeScript
+
+**GitHub地址**：https://github.com/immich-app/immich
+
+**效果预览**：
+
+![](/image/高性能照片和视频自托管解决方案，打造私人云端图库/1.png)
+
+
+### 开源个人知识管理软件，重构你的思维
+
+**推荐标题**：SiYuan Note——高效的本地优先笔记管理工具
+
+**推荐语**：SiYuan Note 是一款本地优先的开源笔记管理工具，支持 Markdown 编辑、数据加密存储和多端同步。
+
+**GitHub Star数**：![](https://img.shields.io/github/stars/siyuan-note/siyuan)
+
+**开发语言**：TypeScript
+
+**GitHub地址**：https://github.com/siyuan-note/siyuan
+
+**效果预览**：
+
+![](/image/开源个人知识管理软件，重构你的思维/1.png)
+
+
+### 开源项目管理和问题跟踪平台，平替 JIRA
+**推荐标题**：Plane——开源项目管理工具
+
+**推荐语**：Plane 是一个开源的项目管理平台，提供直观的界面和灵活的团队协作工具。
+
+**GitHub Star数**：![](https://img.shields.io/github/stars/makeplane/plane)
+
+**开发语言**：TypeScript
+
+**GitHub地址**：https://github.com/makeplane/plane
+
+**效果预览**：
+
+![](/image/开源项目管理和问题跟踪平台，平替JIRA/1.png)
+
+
 ### 这款开源在线视频下载神器绝了，速度达 30M/S
 **推荐语**：一款多平台流媒体下载工具，支持轻松提取和下载M3U8视频和直播资源，简单高效。
 
